@@ -22,7 +22,7 @@ Here’s how the app looks:
    ```bash
    git clone https://github.com/areej-png/To-Do-App.git
 2. Open the Project folder:
-   cd To-Do-App
+   `cd To-Do-App`
 3. Run the app by opening `index.html` in your browser.
 
 ---
